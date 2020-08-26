@@ -15,4 +15,4 @@
 
 
 ## Modifications
-[mod-vii-gen.sh](/mods/mod-vii-gen.sh), [mod-vii-han.sh](/mods/mod-vii-han.sh) 
+[mod-vii-gen.sh](mods/mod-vii-gen.sh), [mod-vii-han.sh](mods/mod-vii-han.sh) 

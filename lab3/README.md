@@ -13,5 +13,5 @@
 [vi.sh](vi.sh): В полученном на предыдущем шаге файле после каждой группы записей с одинаковым идентификатором родительского процесса вставить строку вида `Average_Sleeping_Children_of_ParentID=N is M`, где `N = PPID`, а `M` – среднее, посчитанное из `SleepAVG` для данного процесса.
 
 
-## [Modifications](/lab3/mods/)
+## [Modifications](/lab3/mods/):
 [mod1.sh](/lab3/mods/mod1.sh), [mod2.sh](/lab3/mods/mod2.sh) 
